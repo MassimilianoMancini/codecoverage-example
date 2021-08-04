@@ -1,0 +1,1 @@
+Code coverage on a bank example using Eclemma and JaCoCO
